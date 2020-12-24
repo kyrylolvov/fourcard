@@ -11,3 +11,8 @@
     }
 
 }
+@media (max-width: 1190px){
+    main{
+        width: 359px;
+    }
+}
